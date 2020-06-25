@@ -1,0 +1,24 @@
+{
+  "name": "soloist",
+  "version": "0.0.1",
+  "description": "Mandandome solito",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbonetto/soloing.git"
+  },
+  "author": "JGB",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jbonetto/soloing/issues"
+  },
+  "homepage": "https://github.com/jbonetto/soloing#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
