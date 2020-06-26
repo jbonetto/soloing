@@ -1,6 +1,6 @@
 {
   "name": "soloist",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mandandome solito",
   "main": "index.html",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/jbonetto/soloing.git"
   },
-  "author": "JGB",
+  "author": "Julián G Bonetto",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/jbonetto/soloing/issues"
@@ -20,5 +20,11 @@
   "homepage": "https://github.com/jbonetto/soloing#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "http-proxy": "^1.18.1",
+    "jquery": "^3.5.1",
+    "minimist": "^1.2.5"
   }
 }
